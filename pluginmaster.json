@@ -3,15 +3,15 @@
     "Author": "Jinjyu1211",
     "Name": "AllHud",
     "InternalName": "AllHud",
-    "AssemblyVersion": "0.0.0.13",
+    "AssemblyVersion": "0.0.0.14",
     "Description": "修改自穷孩子的原插件，魔改版，有问题别找穷孩子。",
     "ApplicableVersion": "any",
     "Tags": ["hud", "overlay", "ui", "info", "party", "combat"],
     "CategoryTags": ["ui"],
     "DalamudApiLevel": 15,
-    "DownloadLinkInstall": "https://gh-proxy.com/https://github.com/Jinjyu1211/AllHud/releases/download/v0.0.0.13/AllHud-0.0.0.13.zip",
-    "DownloadLinkUpdate": "https://gh-proxy.com/https://github.com/Jinjyu1211/AllHud/releases/download/v0.0.0.13/AllHud-0.0.0.13.zip",
-    "DownloadLinkTesting": "https://gh-proxy.com/https://github.com/Jinjyu1211/AllHud/releases/download/v0.0.0.13/AllHud-0.0.0.13.zip",
+    "DownloadLinkInstall": "https://gh-proxy.com/https://github.com/Jinjyu1211/AllHud/releases/download/v0.0.0.14/AllHud-0.0.0.14.zip",
+    "DownloadLinkUpdate": "https://gh-proxy.com/https://github.com/Jinjyu1211/AllHud/releases/download/v0.0.0.14/AllHud-0.0.0.14.zip",
+    "DownloadLinkTesting": "https://gh-proxy.com/https://github.com/Jinjyu1211/AllHud/releases/download/v0.0.0.14/AllHud-0.0.0.14.zip",
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
@@ -20,7 +20,7 @@
     "AcceptsFeedback": true,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1783099674,
-    "Changelog": ""
+    "LastUpdated": 1783105200,
+    "Changelog": "追加地图链接显示"
   }
 ]
