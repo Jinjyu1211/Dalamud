@@ -3,6 +3,7 @@
     "Author": "Jinjyu1211",
     "Name": "AllHud",
     "InternalName": "AllHud",
+    "Version": "0.0.0.16",
     "AssemblyVersion": "0.0.0.16",
     "Description": "Mod from original plugin, customized version.",
     "ApplicableVersion": "any",
@@ -20,7 +21,7 @@
     "AcceptsFeedback": true,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1785078808,
+    "LastUpdated": 1785079507,
     "Changelog": "Fixed map coordinate error."
   }
 ]
