@@ -37,7 +37,7 @@
         "Author":  "Jinjyu1211 (Original: Team Sloth)",
         "Name":  "XIVSlothComboX",
         "InternalName":  "XIVSlothComboX",
-        "AssemblyVersion":  "3.3.2.3",
+        "AssemblyVersion":  "3.3.2.5",
         "Description":  "Condenses combos and mutually exclusive abilities onto a single button - and then some. (CN localized)",
         "ApplicableVersion":  "any",
         "Tags":  [
@@ -58,10 +58,10 @@
         "DownloadLinkUpdate":  "https://gh-proxy.com/https://raw.githubusercontent.com/Jinjyu1211/XIVSlothComboX/main/release/XIVSlothComboX/latest.zip",
         "DownloadLinkTesting":  "https://gh-proxy.com/https://raw.githubusercontent.com/Jinjyu1211/XIVSlothComboX/main/release/XIVSlothComboX/latest.zip",
         "Punchline":  "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
-        "Changelog":  "API 15 Upgrade - Updated for FF14 7.5 compatibility",
+        "Changelog":  "API15 upgrade complete - Updated for FF14 7.5 compatibility",
         "AcceptsFeedback":  true,
         "IsHide":  false,
         "IsTestingExclusive":  false,
-        "LastUpdated":  1785199080
+        "LastUpdated":  1785149400
     }
 ]
