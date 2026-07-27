@@ -1,27 +1,67 @@
-[
-  {
-    "Author": "Jinjyu1211 (Original: QiongHHHZZZ)",
-    "Name": "AllHud",
-    "InternalName": "AllHud",
-    "Version": "0.0.0.16",
-    "AssemblyVersion": "0.0.0.16",
-    "Description": "Mod from original plugin, customized version.",
-    "ApplicableVersion": "any",
-    "Tags": ["hud", "overlay", "ui", "info", "party", "combat"],
-    "CategoryTags": ["ui"],
-    "DalamudApiLevel": 15,
-    "DownloadLinkInstall": "https://gh-proxy.com/https://github.com/Jinjyu1211/AllHud/releases/download/v0.0.0.16/AllHud-0.0.0.16.zip",
-    "DownloadLinkUpdate": "https://gh-proxy.com/https://github.com/Jinjyu1211/AllHud/releases/download/v0.0.0.16/AllHud-0.0.0.16.zip",
-    "DownloadLinkTesting": "https://gh-proxy.com/https://github.com/Jinjyu1211/AllHud/releases/download/v0.0.0.16/AllHud-0.0.0.16.zip",
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "Punchline": "Customized HUD plugin.",
-    "AcceptsFeedback": true,
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "LastUpdated": 1785117007,
-    "Changelog": "Fixed map coordinate error."
-  }
+﻿[
+    {
+        "Author":  "Jinjyu1211 (Original: QiongHHHZZZ)",
+        "Name":  "AllHud",
+        "InternalName":  "AllHud",
+        "Version":  "0.0.0.16",
+        "AssemblyVersion":  "0.0.0.16",
+        "Description":  "Mod from original plugin, customized version.",
+        "ApplicableVersion":  "any",
+        "Tags":  [
+                     "hud",
+                     "overlay",
+                     "ui",
+                     "info",
+                     "party",
+                     "combat"
+                 ],
+        "CategoryTags":  [
+                             "ui"
+                         ],
+        "DalamudApiLevel":  15,
+        "DownloadLinkInstall":  "https://gh-proxy.com/https://github.com/Jinjyu1211/AllHud/releases/download/v0.0.0.16/AllHud-0.0.0.16.zip",
+        "DownloadLinkUpdate":  "https://gh-proxy.com/https://github.com/Jinjyu1211/AllHud/releases/download/v0.0.0.16/AllHud-0.0.0.16.zip",
+        "DownloadLinkTesting":  "https://gh-proxy.com/https://github.com/Jinjyu1211/AllHud/releases/download/v0.0.0.16/AllHud-0.0.0.16.zip",
+        "LoadRequiredState":  0,
+        "LoadSync":  false,
+        "CanUnloadAsync":  false,
+        "LoadPriority":  0,
+        "Punchline":  "Customized HUD plugin.",
+        "AcceptsFeedback":  true,
+        "IsHide":  false,
+        "IsTestingExclusive":  false,
+        "LastUpdated":  1785117007,
+        "Changelog":  "Fixed map coordinate error."
+    },
+    {
+        "Author":  "Jinjyu1211 (Original: Team Sloth)",
+        "Name":  "XIVSlothComboX",
+        "InternalName":  "XIVSlothComboX",
+        "AssemblyVersion":  "3.3.2.3",
+        "Description":  "Condenses combos and mutually exclusive abilities onto a single button - and then some. (CN localized)",
+        "ApplicableVersion":  "any",
+        "Tags":  [
+                     "combo",
+                     "cn"
+                 ],
+        "CategoryTags":  [
+                             "job"
+                         ],
+        "DalamudApiLevel":  15,
+        "LoadRequiredState":  0,
+        "LoadSync":  false,
+        "CanUnloadAsync":  false,
+        "LoadPriority":  0,
+        "RepoUrl":  "https://github.com/Jinjyu1211/XIVSlothComboX",
+        "IconUrl":  "https://gh-proxy.com/https://raw.githubusercontent.com/Jinjyu1211/XIVSlothComboX/main/res/plugin/XIVSlothComboX.png",
+        "DownloadLinkInstall":  "https://gh-proxy.com/https://raw.githubusercontent.com/Jinjyu1211/XIVSlothComboX/main/release/XIVSlothComboX/latest.zip",
+        "DownloadLinkUpdate":  "https://gh-proxy.com/https://raw.githubusercontent.com/Jinjyu1211/XIVSlothComboX/main/release/XIVSlothComboX/latest.zip",
+        "DownloadLinkTesting":  "https://gh-proxy.com/https://raw.githubusercontent.com/Jinjyu1211/XIVSlothComboX/main/release/XIVSlothComboX/latest.zip",
+        "Punchline":  "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
+        "Changelog":  "API 15 Upgrade - Updated for FF14 7.5 compatibility",
+        "AcceptsFeedback":  true,
+        "IsHide":  false,
+        "IsTestingExclusive":  false,
+        "LastUpdated":  1785199080
+    }
 ]
